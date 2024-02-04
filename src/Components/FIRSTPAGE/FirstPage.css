@@ -1,0 +1,118 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.padding{
+    padding: 10px 30px;
+}
+
+.padding_Center{
+    padding: 0px 50px ;
+    background-color: aqua;
+}
+
+.padding_left{
+    padding: 0px 100px ;
+    /* background-color: green;    */
+}
+
+.btn_padding{
+    padding: 2px 60px;
+}
+
+.color{
+    background-color: aqua;
+}
+
+.left-content{
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.main_height{
+    min-height: 93.7vh;
+}
+.container{
+    display: flex;
+    /* flex-direction: column; */
+    /* align-items: center; */
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+}
+.Have{
+    /* padding: 30px 200px; */
+    justify-content: center;
+}
+.Electric{
+    /* padding-right: 1000px; */
+    padding-top: 28px;
+    font-size: 100px;
+    color: #FF00CF;
+
+}
+.Feels{
+    /* padding-right: 1000px; */
+    /* margin-top: -25px; */
+    font-size: 100px;
+    color: #FF00CF;
+
+}
+.With{
+    /* padding-right: 1000px; */
+    padding-top: 28px;
+    color: black;
+
+}
+.All{
+    /* padding-right: 1000px; */
+    padding-top: 28px;
+    /* padding-left: 95px; */
+    color: black;
+}
+
+.btn2{
+    padding: 5px;
+    padding-right: 10px;
+    padding-top: 2px;
+    padding-left: 20px;
+   background-color: #FF00CF;
+  
+   text-align: center;
+   top: 635px;
+   width: 184px;
+   height: 36px;
+   left: 199px;
+   margin-top: 50px;
+   /* margin-left: 165px; */
+ }
+ .height{
+    /* height: 200px; */
+ }
+
+#right-top-container{
+    height: 150px;
+    width: 100%;
+    transform: skew(-20deg);
+    position: relative;
+    left: 150px;
+    background-color: black;
+}
+#right-bottom-container{
+    height: 550px;
+    width: 100%;
+    transform: skew(-20deg);
+    position: relative;
+    left: 190px;
+    background-color: black;
+}
+
+.img-box{
+    position: absolute;
+    top: 10px;
+    right: 160px;
+}
